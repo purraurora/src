@@ -8,7 +8,7 @@ backdoor removed by solar.
 Basically theres not much change here, i just removed the backdoor from the source
 [READ HERE](https://github.com/honeyqwxasxc/pekora-latest-src/blob/main/inventory-backdoor-line23.txt) (or just click: https://github.com/honeyqwxasxc/pekora-latest-src/blob/main/inventory-backdoor-line23.txt)
 it only worked for Windows Users. And you can check the file itself if you want
-on [Anontux's Repository / tooblewtf's leak](https://github.com/Anontux/pekora-latest-src/blob/main/Roblox/Roblox.Website/Controllers/v2/Inventory.cs#L23) and roll to the final, you can check mine and roll to the final, it has no reverse shell backdoor [My Repository](https://github.com/honeyqwxasxc/pekora-latest-src/blob/main/Roblox/Roblox.Website/Controllers/v2/Inventory.cs#L23)
+on [Anontux's Repository](https://github.com/Anontux/pekora-latest-src/blob/main/Roblox/Roblox.Website/Controllers/v2/Inventory.cs#L23) and roll to the final, you can check mine and roll to the final, it has no reverse shell backdoor [My Repository](https://github.com/honeyqwxasxc/pekora-latest-src/blob/main/Roblox/Roblox.Website/Controllers/v2/Inventory.cs#L23)
 and just for fun heres the ip address that was in the backdoor:
 51.15.158.185:9001
 and it used a specifically long asset id
@@ -32,7 +32,7 @@ p.StandardInput.WriteLine(line) - sends that command to cmd.exe, which then exec
 
 Discord Bot: https://github.com/wnFXF/pekora-discord-bot-ARCHIVE
 Clients: https://github.com/wnFXF/pekora-client-ARCHIVE
-Warning: this was not leaked by me or solar, this was ALL leaked by tooblewtf, 100% credits to him
+Warning: this was not made by me or solar, this was gave by tooblewtf, 100% credits to him
 </div>
 # HOW TO SETUP
 
